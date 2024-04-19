@@ -1,0 +1,25 @@
+{
+  "name": "ainabivi-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dinamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainabivi77/ainabivi-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "ainabivi77 <ainabivi.1977@hotmail.com> (https://github.com/ainabivi77)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ainabivi77/ainabivi-js-footer/issues"
+  },
+  "homepage": "https://github.com/ainabivi77/ainabivi-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
